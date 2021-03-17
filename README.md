@@ -17,3 +17,25 @@ This is my third line
 * This is Unordered List 
 * This line 2 
 * This is line 3 
+
+I want learn about Links 
+
+[This is a Google Link](https://www.google.com)
+
+[Apple Site](www.apple.com)
+
+[fgsdfgsdfg  ](wwww.abc.com)
+
+ function myfunction(){
+    var aa= 10;
+    console.log(aa);
+  }
+  myfunction()
+  
+```` 
+function myfunction(){
+  var aa= 10;
+  console.log(aa);
+}
+myfunction()
+```
